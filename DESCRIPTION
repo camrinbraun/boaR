@@ -9,4 +9,4 @@ Description: R port of the Belkin-O'Reilly front detection algorithm
 License: GPL (>= 2)
 LazyLoad: yes
 Depends:
-RoxygenNote: 5.0.0
+RoxygenNote: 6.0.1
